@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.12.2]
+
+### Dependencies
+
+- Upgraded to `tauri-cli@2.12.2`
+- [`fd319dd43`](https://www.github.com/tauri-apps/tauri/commit/fd319dd432e36748483ae93e6cdea1c44a66fe79) Update `base64` to 0.23.
+
 ## [2.12.1]
 
 ### Enhancements

@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.12.3]
+
+### Dependencies
+
+- Upgraded to `tauri-macros@2.7.2`
+- Upgraded to `tauri-build@2.7.2`
+
 ## [2.12.2]
 
 ### Bug Fixes
